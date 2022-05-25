@@ -1,15 +1,15 @@
 {
-  "version": "2.1.6~dev",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/edgeworx/edgectl/releases/download/v2.1.6/edgectl_2.1.6~dev_windows_amd64.zip",
-      "bin": [
-        "edgectl.exe"
-      ],
-      "hash": "0b69ac650576766ac661c532f30c867828314e4f9352fbceb5bee7674e45e5c6"
-    }
-  },
-  "homepage": "https://cloud.darcy.ai/",
-  "license": "Edgeworx",
-  "description": "CLI for Edgeworx Cloud"
+    "version": "2.1.7",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/edgeworx/edgectl/releases/download/v2.1.7/edgectl_2.1.7_windows_amd64.zip",
+            "bin": [
+                "edgectl.exe"
+            ],
+            "hash": "79e3188030078852ad005d6ad08bbc65722ff34110f1b0669b9af37c138cca49"
+        }
+    },
+    "homepage": "https://cloud.darcy.ai/",
+    "license": "Edgeworx",
+    "description": "CLI for Edgeworx Cloud"
 }
