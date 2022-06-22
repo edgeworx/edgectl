@@ -1,12 +1,12 @@
 {
-    "version": "2.1.17",
+    "version": "2.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/edgeworx/edgectl/releases/download/v2.1.17/edgectl_2.1.17_windows_amd64.zip",
+            "url": "https://github.com/edgeworx/edgectl/releases/download/v2.2.0/edgectl_2.2.0_windows_amd64.zip",
             "bin": [
                 "edgectl.exe"
             ],
-            "hash": "56243ef49a4587afaa57f2820adb111138400fecd0792457336fa49c403c7f15"
+            "hash": "d6b4b49c9ee0e66c3b020ebbe7a7e84ce357163929671a1114d719549e9fcbad"
         }
     },
     "homepage": "https://cloud.darcy.ai/",
