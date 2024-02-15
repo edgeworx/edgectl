@@ -1,12 +1,12 @@
 {
-    "version": "3.0.9",
+    "version": "3.0.10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/edgeworx/edgectl/releases/download/v3.0.9/edgectl_3.0.9_windows_amd64.zip",
+            "url": "https://github.com/edgeworx/edgectl/releases/download/v3.0.10/edgectl_3.0.10_windows_amd64.zip",
             "bin": [
                 "edgectl.exe"
             ],
-            "hash": "c540185fe219150d56d9dfe2656c03f1b2234c257f138dc872be9563fa1890d9"
+            "hash": "47b126f4885fc8d6919f064c2b7915a9ed4928402e865d1ebca8e95a639de5f3"
         }
     },
     "homepage": "https://cloud.edgeworx.io",
